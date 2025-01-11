@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an object detection system using YOLOv8, capable of detecting objects and their associated sub-objects in images and video streams. The detection results are saved in a hierarchical JSON format, enabling easy access to the detected objects and their sub-objects. The system is designed to process custom datasets and can be easily extended for other detection tasks.
+This project implements an object detection system using YOLOv8, capable of detecting objects and their associated sub-objects in images. The detection results are saved in a hierarchical JSON format, enabling easy access to the detected objects and their sub-objects. The system is designed to process custom datasets and can be easily extended for other detection tasks.
 
 ## Key Features
 
